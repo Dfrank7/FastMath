@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickMath</string>
+    <string name="text">Do you want to exit from the app</string>
+</resources>

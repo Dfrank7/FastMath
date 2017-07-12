@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="minute">
+        <item>10s</item>
+        <item>20s</item>
+        <item>30s</item>
+        <item>40s</item>
+        <item>50s</item>
+        <item>60s</item>
+    </string-array>
+    <string-array name="tag">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="options">
+        <item>RESTART</item>
+        <item>RESUME</item>
+        <item>SETTINGS</item>
+        <item>RATE IT</item>
+
+    </string-array>
+</resources>
